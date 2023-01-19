@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¾‡ı•ÿÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "nome".(–è¸¨
+D
+java:S1481")Remove this unused "nome" local variable.(çƒ‡Ëúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÍüŞ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜É†µşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(”ûºÛ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.( óùö
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ûˆ–˜
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‰ıåÿıÿÿÿÿ8ÉÃ°Ü0
